@@ -32,8 +32,6 @@ The goal of this lab is to build hands-on experience with enterprise identity ma
 
 ## Project Checklist
 
-- [ ] Create GitHub repository
-- [ ] Add README documentation
 - [ ] Create lab network diagram
 - [ ] Download Windows Server evaluation ISO
 - [ ] Create Windows Server VM
