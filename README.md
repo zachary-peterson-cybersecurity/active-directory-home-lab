@@ -2,7 +2,7 @@
 
 ## Project Status
 
-Planned
+In Progress
 
 ## Project Overview
 
@@ -53,7 +53,13 @@ The goal of this lab is to build hands-on experience with enterprise identity ma
 - Windows Server administration
 - Active Directory Domain Services
 - Domain controller configuration
+- DNS configuration basics
 - User and group management
+- Organizational unit structure
+- Group Policy basics
+- Client domain joining
+
+## Screenshots
 - Organizational units
 - Group Policy basics
 - Virtual machine networking
