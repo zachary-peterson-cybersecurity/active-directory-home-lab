@@ -32,11 +32,10 @@ The goal of this lab is to build hands-on experience with enterprise identity ma
 
 ## Project Checklist
 
-- [ ] Create lab network diagram
-- [ ] Download Windows Server evaluation ISO
-- [ ] Create Windows Server VM
-- [ ] Install Windows Server
-- [ ] Install Active Directory Domain Services
+- [x] Created lab network diagram
+- [x] Created Windows Server VM
+- [x] Installed Windows Server
+- [x] Installed Active Directory Domain Services
 - [ ] Promote server to domain controller
 - [ ] Create organizational units
 - [ ] Create test users
